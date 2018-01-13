@@ -1,3 +1,4 @@
 hello git!
 Edit test!
 Git status check!
+branch test!
